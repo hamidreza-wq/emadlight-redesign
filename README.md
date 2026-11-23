@@ -29,3 +29,7 @@ python -m http.server 8000
 ```
 
 Then open http://localhost:8000.
+
+## Portfolio
+
+Read more about this project on [Hamid Reza Bayat's portfolio](https://hamidbayat.co.uk/projects/emadlight-redesign).
